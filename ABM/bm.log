@@ -1,0 +1,56 @@
+[22:42:16 30 Eki] [newMain                            ] [INFO ] [Application has started Thu Oct 30 22:42:16 EET 2014]
+				
+[22:42:16 30 Eki] [managers.SchedulerManager          ] [INFO ] [Task Collector has registered.]
+				
+[22:42:16 30 Eki] [managers.SchedulerManager          ] [INFO ] [Scheduler has started.]
+				
+[22:42:47 30 Eki] [newMain                            ] [INFO ] [Application has started Thu Oct 30 22:42:47 EET 2014]
+				
+[22:42:48 30 Eki] [managers.SchedulerManager          ] [INFO ] [Task Collector has registered.]
+				
+[22:42:48 30 Eki] [managers.SchedulerManager          ] [INFO ] [Scheduler has started.]
+				
+[22:43:00 30 Eki] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[22:43:00 30 Eki] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[22:43:05 30 Eki] [ui.presenters.ManipulationPresenter] [INFO ] [Model editted:testJob]
+				
+[22:44:00 30 Eki] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[22:44:00 30 Eki] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				
+[22:45:00 30 Eki] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[22:45:00 30 Eki] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				
+[22:46:00 30 Eki] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[22:46:00 30 Eki] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				
+[15:58:52 01 Kas] [newMain                            ] [INFO ] [Application has started Sat Nov 01 15:58:52 EET 2014]
+				
+[15:58:52 01 Kas] [managers.SchedulerManager          ] [INFO ] [Task Collector has registered.]
+				
+[15:58:52 01 Kas] [managers.SchedulerManager          ] [INFO ] [Scheduler has started.]
+				
+[15:59:00 01 Kas] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[15:59:00 01 Kas] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				
+[15:59:39 01 Kas] [ui.presenters.ManipulationPresenter] [INFO ] [New model added:J_Delete_All_File]
+				
+[15:59:53 01 Kas] [ui.presenters.ManipulationPresenter] [INFO ] [Model editted:J_Delete_All_File]
+				
+[16:00:00 01 Kas] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[16:00:00 01 Kas] [ui.presenters.ManipulationPresenter] [INFO ] [Model editted:J_Delete_All_File]
+				
+[16:01:00 01 Kas] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[16:01:00 01 Kas] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				
+[16:02:00 01 Kas] [managers.TaskCollectionManager     ] [INFO ] [TaskCollector has runned.]
+				
+[16:02:00 01 Kas] [managers.WindowsBatchManager       ] [INFO ] [Task has been executed]
+				

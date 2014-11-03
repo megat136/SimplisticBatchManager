@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BatFiles>
+
+
+
+
+<BatFile><Name>J_Delete_All_File</Name><Desc>It deletes all files.</Desc><FileName>helloworld.bat</FileName><CommandArgs><CommandArg>cmd</CommandArg><CommandArg>/c</CommandArg><CommandArg>helloworld.bat</CommandArg><CommandArg>helloworld.bat</CommandArg></CommandArgs><CreationTime>Sat Nov 01 16:00:00 EET 2014</CreationTime><SchedulerPattern>* * * * *</SchedulerPattern><Active>True</Active></BatFile></BatFiles>

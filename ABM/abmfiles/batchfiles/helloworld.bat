@@ -1,0 +1,1 @@
+copy /y NUL EmptyFile-%RANDOM%.txt >NUL
